@@ -1,0 +1,24 @@
+
+h	java:S112Έ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Μ©Ά΅1
+h	java:S112Ξ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Μ©Ά΅1
+L
+java:S3740b"/Provide the parametrized type for this generic.(εΎ³ύ8Μ©Ά΅1
+n
+java:S1192."QDefine a constant instead of duplicating this literal "checkoutItemList" 3 times.(ΐδ8Μ©Ά΅1
+o
+java:S1192/"MDefine a constant instead of duplicating this literal "checkoutType" 3 times.(“ΖΨϊÿÿÿÿ8Μ©Ά΅1
+:
+java:S1643‰"Use a StringBuilder instead.(€Ζ―‹8ά©Ά΅1
+:
+java:S1643‘"Use a StringBuilder instead.(ψµ8ά©Ά΅1
+?
+java:S1643Ι"Use a StringBuilder instead.(¬Τ‹ϊÿÿÿÿ8ά©Ά΅1
+Z
+java:S1155-">Use isEmpty() to check whether the collection is empty or not.(Άª8ίªΆ΅1
+o
+java:S2441E"MMake "List" and its parameters serializable or don't store it in the session.(η——ώÿÿÿÿ8ίªΆ΅1
+t
+java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(π³¶ϋÿÿÿÿ8ίªΆ΅1
+]
+java:S2441z"@Make "PlaceOrder" serializable or don't store it in the session.(‹½ω8οªΆ΅1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ΎΑϋÿÿÿÿ8οªΆ΅1

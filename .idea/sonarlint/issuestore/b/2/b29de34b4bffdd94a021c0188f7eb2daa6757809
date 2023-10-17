@@ -1,0 +1,17 @@
+
+r	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¶¦¸üÿÿÿÿ8ê¢´‰1
+r	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ñíùÿÿÿÿ8ê¢´‰1
+r	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±±Ô‡şÿÿÿÿ8ê¢´‰1
+r	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ëóàøÿÿÿÿ8ê¢´‰1
+}	java:S116"\Rename this field "email_verified_at" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŒ”³ıÿÿÿÿ8ÅæŸ´‰1
+}	java:S116"\Rename this field "verification_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ»ş÷øÿÿÿÿ8ÅæŸ´‰1
+z	java:S116"YRename this field "contact_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÔ²ïøÿÿÿÿ8ÅæŸ´‰1
+r	java:S116"VRename this field "postal_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛòÛ—8ÆæŸ´‰1
+o	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àøæ¶ùÿÿÿÿ8ñê¢´‰1
+o	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¶¦¸üÿÿÿÿ8ñê¢´‰1
+o	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’³’Ëùÿÿÿÿ8óê¢´‰1
+o	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ñíùÿÿÿÿ8óê¢´‰1
+j	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï½ÆÊ8ôê¢´‰1
+o	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±±Ô‡şÿÿÿÿ8õê¢´‰1
+i	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¸æH8ùê¢´‰1
+o	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ëóàøÿÿÿÿ8ùê¢´‰1

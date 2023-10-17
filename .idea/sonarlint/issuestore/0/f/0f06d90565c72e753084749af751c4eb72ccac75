@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬Ã€ƒúÿÿÿÿ8ÞŽ¯ê†1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ö ¥¨úÿÿÿÿ8º—»é†1
+X	java:S125"<This block of commented-out lines of code should be removed.(××Ÿõ8ÒŒ´ê†1
+d
+java:S1128"BRemove this unused import 'com.jiat.ndcamera.service.MailService'.(´¬†Òÿÿÿÿÿ8ºÎ¯ê†1
+[
+java:S1128">Remove this unused import 'com.jiat.ndcamera.util.Encryption'.(ëÃ¨ó8ºÎ¯ê†1
+i
+java:S1128"GRemove this unused import 'org.apache.commons.lang3.RandomStringUtils'.(Í¦ª¤ÿÿÿÿÿ8±Ÿ°ê†1
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8ØŒ´ê†1

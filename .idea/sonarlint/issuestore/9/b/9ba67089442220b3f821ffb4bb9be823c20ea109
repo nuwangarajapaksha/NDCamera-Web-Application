@@ -1,0 +1,31 @@
+
+h
+java:S1192<"FDefine a constant instead of duplicating this literal "error" 6 times.(Þ€ú†üÿÿÿÿ8‰ÉÐ×ž1
+j
+java:S1192P"HDefine a constant instead of duplicating this literal "success" 3 times.(Õš¡°úÿÿÿÿ8™ÉÐ×ž1
+d
+java:S1192g"HDefine a constant instead of duplicating this literal "brandId" 5 times.(“ÜÄX8¨ÉÐ×ž1
+s
+java:S1192="WDefine a constant instead of duplicating this literal "redirect:/admin-brands" 5 times.(·²¯h8¨ÉÐ×ž1
+L
+java:S1066y"/Merge this if statement with the enclosing one.(º„Õæ8¨ÉÐ×ž1
+^
+java:S4973p"<Strings and Boxed types should be compared using "equals()".(©ØÔïüÿÿÿÿ8¸ÉÐ×ž1
+X	java:S125/"<This block of commented-out lines of code should be removed.(“¬×à8ãÍÐ×ž1
+`
+java:S1155;">Use isEmpty() to check whether the collection is empty or not.(¨ÇŽ¡ýÿÿÿÿ8ãÍÐ×ž1
+]	java:S125A"<This block of commented-out lines of code should be removed.(“˜Ø€ùÿÿÿÿ8òÍÐ×ž1
+o
+java:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(š±úß8‚ÎÐ×ž1
+`
+java:S1155n">Use isEmpty() to check whether the collection is empty or not.(‘Š³ñþÿÿÿÿ8˜ÎÐ×ž1
+^
+java:S1854š";Remove this useless assignment to local variable "brandId".(»»µãþÿÿÿÿ8Üê­ð 1
+\
+java:S1854¢">Remove this useless assignment to local variable "resultList".(Ì¸ÅÀ8Üê­ð 1
+O
+java:S1481š",Remove this unused "brandId" local variable.(»»µãþÿÿÿÿ8äê­ð 1
+M
+java:S1481¢"/Remove this unused "resultList" local variable.(Ì¸ÅÀ8æê­ð 1
+\
+java:S1155£">Use isEmpty() to check whether the collection is empty or not.(Û¸˜¨8æê­ð 1

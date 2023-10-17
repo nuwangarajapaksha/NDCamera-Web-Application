@@ -1,0 +1,50 @@
+
+h
+java:S11927"FDefine a constant instead of duplicating this literal "email" 3 times.(ˆ§ÇÌýÿÿÿÿ8Û–Òœž1
+j
+java:S11927"HDefine a constant instead of duplicating this literal "address" 3 times.(ˆ§ÇÌýÿÿÿÿ8Û–Òœž1
+k
+java:S11927"IDefine a constant instead of duplicating this literal "location" 3 times.(ˆ§ÇÌýÿÿÿÿ8Û–Òœž1
+M
+java:S1066„"/Merge this if statement with the enclosing one.(º„Õæ8Û–Òœž1
+t
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÿã‡Éúÿÿÿÿ8²˜Òœž1
+^
+java:S18547"<Remove this useless assignment to local variable "nameList".(ˆ§ÇÌýÿÿÿÿ8²˜Òœž1
+O
+java:S14817"-Remove this unused "nameList" local variable.(ˆ§ÇÌýÿÿÿÿ8Ò˜Òœž1
+=	java:S131D""Add a default case to this switch.(¯ÖäR8Ò˜Òœž1
+I
+java:S2440"&Remove this instantiation of "BSUtil".(·Ùáéúÿÿÿÿ8á˜Òœž1
+R
+java:S2209Ž"5Change this instance-reference to a static reference.(óÎ²|8á˜Òœž1
+X
+java:S2209"5Change this instance-reference to a static reference.(÷ùç¸ùÿÿÿÿ8á˜Òœž1
+S
+java:S2209"5Change this instance-reference to a static reference.(óê¨8á˜Òœž1
+S
+java:S2209‘"5Change this instance-reference to a static reference.(ƒ°þ×8á˜Òœž1
+S
+java:S2209’"5Change this instance-reference to a static reference.(¡ƒ—ô8á˜Òœž1
+X
+java:S2209“"5Change this instance-reference to a static reference.(á‹ö˜øÿÿÿÿ8á˜Òœž1
+S
+java:S2209”"5Change this instance-reference to a static reference.(ÔôñÉ8á˜Òœž1
+X
+java:S2209•"5Change this instance-reference to a static reference.(®ËÙ”úÿÿÿÿ8á˜Òœž1
+S
+java:S2209–"5Change this instance-reference to a static reference.(èŸœð8á˜Òœž1
+X
+java:S2209—"5Change this instance-reference to a static reference.(ÐØ·Âüÿÿÿÿ8á˜Òœž1
+X
+java:S2209˜"5Change this instance-reference to a static reference.(ÏÌ«Ëøÿÿÿÿ8á˜Òœž1
+X
+java:S2209š"5Change this instance-reference to a static reference.(êºøºþÿÿÿÿ8á˜Òœž1
+X
+java:S2209ž"5Change this instance-reference to a static reference.(§Üø«ýÿÿÿÿ8á˜Òœž1
+X
+java:S2209¢"5Change this instance-reference to a static reference.(´ÁÄ‚øÿÿÿÿ8á˜Òœž1
+S
+java:S2209¦"5Change this instance-reference to a static reference.(²Ö©8á˜Òœž1
+é
+java:S6541&"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 130 to 64, Complexity from 34 to 14, Nesting Level from 4 to 2, Number of Variables from 36 to 6.(ÿã‡Éúÿÿÿÿ8á˜Òœž1
