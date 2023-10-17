@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hibernate-configuration xmlns="http://www.hibernate.org/xsd/orm/cfg">
+    <session-factory>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQL8Dialect</property>
+        <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3307/nd_camera_db?useSSL=false&amp;allowPublicKeyRetrieval=true</property>
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.connection.password">ass34</property>
+        <property name="hibernate.hbm2ddl.auto">update</property>
+        <property name="hibernate.show_sql">true</property>
+
+        <mapping class="com.jiat.ndcamera.entity.User" />
+        <mapping class="com.jiat.ndcamera.entity.Brand" />
+        <mapping class="com.jiat.ndcamera.entity.Product" />
+        <mapping class="com.jiat.ndcamera.entity.Cart" />
+        <mapping class="com.jiat.ndcamera.entity.WishList" />
+        <mapping class="com.jiat.ndcamera.entity.BusinessSetting" />
+        <mapping class="com.jiat.ndcamera.entity.Order" />
+        <mapping class="com.jiat.ndcamera.entity.OrderItem" />
+    </session-factory>
+</hibernate-configuration>

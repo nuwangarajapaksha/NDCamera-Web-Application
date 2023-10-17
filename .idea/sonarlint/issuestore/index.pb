@@ -1,8 +1,6 @@
 
 V
 &src/main/webapp/assets/sass/style.scss,a\6\a6355c0d2059f1126bbcbb541e61f6916af489d2
-Y
-)src/main/java/com/jiat/ndcamera/Test.java,0\f\0f06d90565c72e753084749af751c4eb72ccac75
 a
 1src/main/java/com/jiat/ndcamera/servlet/Test.java,9\c\9c59cd656a60b2269ed8a96c4e463b16d83238ec
 _
@@ -43,8 +41,6 @@ p
 @src/main/java/com/jiat/ndcamera/controllers/LoginController.java,f\f\ff9b3a52900fc3f040dbf18f4515a7549ffdc353
 w
 Gsrc/main/java/com/jiat/ndcamera/controllers/RegistrationController.java,f\5\f5e13a4949ca8daf1a9396296a02c25c2a932d76
-g
-7src/main/java/com/jiat/ndcamera/config/RouteConfig.java,f\4\f4444756b23f765b4e408d87bd35735f29d8f8ac
 f
 6src/main/java/com/jiat/ndcamera/entity/BaseEntity.java,0\f\0fe4f33adbce202be4f4d0644ecbc01d4e9b6458
 a
@@ -185,3 +181,7 @@ i
 9src/main/java/com/jiat/ndcamera/service/OrderService.java,f\5\f57c8b02039a599c6affcfa08e8f9525ed5ade70
 {
 Ksrc/main/java/com/jiat/ndcamera/controllers/CheckoutCompleteController.java,a\e\ae31f886fbe85251e80366dccb43a31ced91fd1b
+g
+7src/main/java/com/jiat/ndcamera/config/RouteConfig.java,f\4\f4444756b23f765b4e408d87bd35735f29d8f8ac
+Y
+)src/main/java/com/jiat/ndcamera/Test.java,0\f\0f06d90565c72e753084749af751c4eb72ccac75
