@@ -1,9 +1,0 @@
-
-g
-java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(íÊ‹ƒúÿÿÿÿ8Ã£ÿÿ‚1
-]
-java:S1854";Remove this useless assignment to local variable "session".(íÊ‹ƒúÿÿÿÿ8¯ûþÿ‚1
-{
-java:S1989"YHandle the following exception that could be thrown by "openSession": HibernateException.(íÊ‹ƒúÿÿÿÿ8Ó£ÿÿ‚1
-N
-java:S1481",Remove this unused "session" local variable.(íÊ‹ƒúÿÿÿÿ8¿ûþÿ‚1

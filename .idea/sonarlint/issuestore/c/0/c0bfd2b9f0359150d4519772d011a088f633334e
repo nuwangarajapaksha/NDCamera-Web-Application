@@ -1,9 +1,0 @@
-
-l
-java:S1192#"JDefine a constant instead of duplicating this literal "productId" 3 times.(Œ¿•¨ùÿÿÿÿ8 ø“Ä1
-`
-java:S1854*"CRemove this useless assignment to local variable "wishListProduct".(ğ†‹8Ëø“Ä1
-h
-java:S2153'"FRemove the boxing to "Long"; The argument is already of the same type.(˜É¶üÿÿÿÿ8Îø“Ä1
-Q
-java:S1481*"4Remove this unused "wishListProduct" local variable.(ğ†‹8Ğø“Ä1

@@ -1,13 +1,0 @@
-
-r	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ëóàøÿÿÿÿ8âôî1
-r	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±±Ô‡şÿÿÿÿ8âôî1
-s	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Æ²úÿÿÿÿ8âôî1
-r	java:S116"VRename this field "postal_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛòÛ—8âôî1
-z	java:S116"YRename this field "contact_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÔ²ïøÿÿÿÿ8âôî1
-v	java:S116"URename this field "item_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºß—˜ıÿÿÿÿ8âôî1
-i	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¸æH8âôî1
-o	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ëóàøÿÿÿÿ8âôî1
-j	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï½ÆÊ8âôî1
-o	java:S100n"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±±Ô‡şÿÿÿÿ8âôî1
-j	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¯ğ8­âôî1
-p	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Æ²úÿÿÿÿ8½âôî1

@@ -1,10 +1,0 @@
-
-L
-java:S37400"/Provide the parametrized type for this generic.(Î÷øÑ8ÕÊÍ¯1
-Q
-java:S37407"/Provide the parametrized type for this generic.(·Õûøÿÿÿÿ8ÖÊÍ¯1
-\
-java:S1118":Add a private constructor to hide the implicit public one.(Öˆ •ùÿÿÿÿ8ËÍ¯1
-I
-java:S1602",Remove useless curly braces around statement(Ú½›ğ8§ËÍ¯1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ïƒëˆùÿÿÿÿ8­ËÍ¯1
